@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ntp_proje">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ntp_proje.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
